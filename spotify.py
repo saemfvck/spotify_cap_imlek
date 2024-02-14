@@ -3,7 +3,7 @@ try:
 except Exception as e :
 	print(" Module belum terinstall\n")
 
-domain = "feliceyuki.eu.org"  # set domain here
+domain = "@feliceyuki.eu.org" # set domain here
 sandi = "@MathiasFelice"  # set password here
 capsolver_key = "CAP-649C737C0D39D0EF002C5825985188B6" # set capsolver api key here
 api_spotify = "142b583129b2df829de3656f9eb484e6" # dont change if u dont know how to get api_spotify
